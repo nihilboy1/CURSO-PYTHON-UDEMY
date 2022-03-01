@@ -1,0 +1,8 @@
+ERROR: MotorolaV3 Não está ligado!
+INFO: MotorolaV3 foi conectado
+ERROR: MotorolaV3 já está conectado
+INFO: MotorolaV3 foi desconectado
+ERROR: MotorolaV3 Não está ligado!
+INFO: MotorolaV3 foi conectado
+ERROR: MotorolaV3 já está conectado
+INFO: MotorolaV3 foi desconectado

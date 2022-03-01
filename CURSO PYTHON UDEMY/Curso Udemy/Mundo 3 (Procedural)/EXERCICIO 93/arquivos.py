@@ -1,0 +1,5 @@
+nuncaapaga = []
+itensapagados = []
+listatop = []
+
+
